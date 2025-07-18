@@ -1,0 +1,8 @@
+openai
+sarvamai
+numpy
+sounddevice
+webrtcvad
+soundfile
+streamlit
+python-dotenv
