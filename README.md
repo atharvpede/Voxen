@@ -1,10 +1,12 @@
-# Voxen.ai - Real-time Voice Assistant 🎙️
+# Voxen - Real-time Voice Assistant 🎙️
 
 ## Description
 
-Voxen.ai is a real-time voice assistant built with Python that makes interacting with technology easier and more intuitive. It uses Sarvam AI’s speech-to-text and text-to-speech features alongside OpenAI’s powerful language understanding to let you talk naturally with an AI assistant.
+Voxen is a real-time voice assistant built with Python that makes interacting with technology easier and more intuitive. It uses Sarvam AI’s speech-to-text and text-to-speech features alongside OpenAI’s powerful language understanding to let you talk naturally with an AI assistant.
 
-With Voxen.ai, you can simply speak your requests and get quick, accurate responses without needing to type or click. It’s designed to help you get things done more efficiently while providing a smooth, hands-free experience that feels natural and responsive.
+With Voxen, you can simply speak your requests and get quick, accurate responses without needing to type or click. It’s designed to help you get things done more efficiently while providing a smooth, hands-free experience that feels natural and responsive.
+
+**Watch the short demo video here**: [YouTube Demo](https://youtube.com/shorts/DdS4UqM0gTk?si=e1tervcFaNuPY7wE)
 
 ## Key Features
 
@@ -43,7 +45,7 @@ The project relies on the following Python libraries:
 ```
 ## Development Journey
 
-The motivation behind building Voxen.ai was to create a smooth, natural voice assistant experience that allows users to interact hands-free with technology.
+The motivation behind building Voxen was to create a smooth, natural voice assistant experience that allows users to interact hands-free with technology.
 
 The project is developed entirely in Python and combines several powerful technologies:
 
